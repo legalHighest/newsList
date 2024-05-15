@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 未选中状态下的填充颜色 -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#00FF00" /> <!-- 绿色 -->
+        </shape>
+    </item>
+    <!-- 勾勾 -->
+    <item android:id="@android:id/checkbox" android:drawable="@drawable/ic_checked" />
+</layer-list>

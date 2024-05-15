@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetWorkApplication</string>
+
+
+    <!--    摄像头图层模板-->
+    <string name="camera_name">摄像头名称</string>
+    <string name="cutout_color">抠图颜色</string>
+    <string name="cutout_strength">抠图强度</string>
+    <string name="cutout_beauty">智能美颜</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

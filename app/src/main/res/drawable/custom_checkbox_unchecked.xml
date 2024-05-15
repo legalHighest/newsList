@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 选中状态下的填充颜色 -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#00FF00" /> <!-- 绿色 -->
+        </shape>
+    </item>
+    <!-- 不显示勾勾 -->
+</layer-list>
