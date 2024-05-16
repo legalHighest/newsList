@@ -1,6 +1,5 @@
 package com.example.networkapplication.model;
 
-import com.android.internal.org.bouncycastle.jcajce.provider.symmetric.ARC4;
 import com.example.networkapplication.entity.Detail;
 
 public class NewsDetailResult extends BaseBean {

@@ -289,4 +289,12 @@ public class NewsListFragment extends Fragment implements OnTabSelectedListener 
             }
         });
     }
+
+    public boolean getIfFirst() {
+        return ifFirst;
+    }
+
+    public void setIfFirst(boolean ifFirst) {
+        this.ifFirst = ifFirst;
+    }
 }
